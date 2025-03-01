@@ -1,0 +1,2 @@
+1. The data file is stored in the Google Drive; Access the same from here -- https://drive.google.com/drive/folders/1xbKkdOpAzw8OfvE1kMKyQ5XBhiExB3r0?usp=drive_link
+2. This drive link contains the trained model, experimental data sets and more: https://drive.google.com/drive/folders/1-3HUb49SqvpSfSyTzV1UbjFlZ52PI4gz?usp=drive_link
